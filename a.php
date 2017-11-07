@@ -1,6 +1,6 @@
 <?php
 define('user','root');
-define('password','akulg1998');
+define('password','passsword daalo apna');
 define('host','localhost');
 define('name','adpproject');
 $conn = mysqli_connect(host,user,password,name)
